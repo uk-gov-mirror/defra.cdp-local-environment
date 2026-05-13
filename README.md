@@ -1,5 +1,9 @@
 # Docker Compose for local development
 
+> [!WARNING]
+> This repository is now archived.
+> We recommend using the compose files provided in the service templates to run and test your services locally instead of cdp-local-environment.
+ 
 * [Requirements](#requirements)
 * [Starting up just Infrastructure](#starting-up-just-infrastructure)
 * [Starting a profile](#starting-a-profile)
